@@ -94,7 +94,7 @@ font-family: ‘Helvetica Neue’, sans-serif;
     0% {
         transform: 
             rotate(0deg)
-            translate(-600px, -600px)
+            translate(-600px, -100px)
             ;
     }
     15% {
