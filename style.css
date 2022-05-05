@@ -1,7 +1,7 @@
 .game{
     width: 600px;
-    height: 200px;
-    border-bottom: 1px solid hsl(210, 9%, 4%);
+    height: 300px;
+    border-bottom: 10px solid hsl(210, 9%, 4%);
     margin: auto;
    
 }
