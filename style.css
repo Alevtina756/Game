@@ -20,13 +20,13 @@
     background-image: url(https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/344/external-coral-sea-life-icongeek26-linear-colour-icongeek26.png);
     background-size:60px 120px;
     position: relative;
-    top: 3300px;
-    left: 17400px;
+    top: 120px;
+    left: 580;
     animation: aa 1s infinite linear;
 }
 @keyframes aa{
     0% {
-        left:17400px;
+        left:580px;
     }
 
     100%{
