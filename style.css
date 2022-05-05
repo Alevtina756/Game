@@ -1,6 +1,6 @@
 .game{
     width: 600px;
-    height: 300px;
+    height: 50%;
     border-bottom: 10px solid hsl(210, 9%, 4%);
     margin: auto;
    
@@ -20,7 +20,7 @@
     background-image: url(https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/344/external-coral-sea-life-icongeek26-linear-colour-icongeek26.png);
     background-size:60px 120px;
     position: relative;
-    top: 320px;
+    top: 50%
     left: 580;
     animation: aa 1s infinite linear;
 }
