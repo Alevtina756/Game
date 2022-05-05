@@ -94,24 +94,24 @@ font-family: ‘Helvetica Neue’, sans-serif;
     0% {
         transform: 
             rotate(0deg)
-            translate(-600px, -200px)
+            translate(-600px, -600px)
             ;
     }
     15% {
         transform: 
             rotate(0deg) 
-            translate( 0px, 100px)
+            translate( -600px, 100px)
             ;
     }
     85% {
         transform: 
             rotate(360deg)
-            translate( 0px, 100px)    
+            translate( -600px, 100px)    
             rotate(-360deg)
             ;
     }
     100% {
-        transform: translate(0px, 200px);
+        transform: translate(-600px, -600px);
     }
 }
 
