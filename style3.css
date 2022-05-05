@@ -26,7 +26,7 @@
 }
 @keyframes aa{
     0% {
-        left:580px;
+        left:780px;
     }
 
     100%{
@@ -39,7 +39,7 @@
 }
 @keyframes jump{
     0% {
-        top: 150px;
+        top: 250px;
     }
     30%{
         top:130px;
@@ -51,7 +51,7 @@
         top:130px;
     }
     100%{
-        top: 150px;
+        top: 250px;
     }
 
 }
