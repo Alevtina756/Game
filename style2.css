@@ -9,7 +9,7 @@ body {
     background: #7c795d;
     position: relative;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: left;
     min-height: 100vh;
 }
