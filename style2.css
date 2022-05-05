@@ -19,12 +19,8 @@ font-family: ‘Helvetica Neue’, sans-serif;
     font-size: 245px; 
     font-weight: bold; 
     letter-spacing: -1px;
-    line-height:1; 
-    text-align-all: right;
-    
-}
-.text2{
-{ color: #111; font-family: ‘Open Sans’, sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center;
+    line-height:5; 
+    text-align: center;
 }
 
 .symbol {
@@ -92,4 +88,5 @@ font-family: ‘Helvetica Neue’, sans-serif;
         transform: translate(0px, 0px);
     }
 }
+
 
