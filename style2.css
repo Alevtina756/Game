@@ -13,6 +13,15 @@ body {
     align-items: center;
     min-height: 100vh;
 }
+.text{
+color:#111;
+font-family: ‘Helvetica Neue’, sans-serif;
+font-size: 275px;
+font-weight: bold; 
+letter-spacing: -1px;
+line-height: 1; 
+text-align: center;
+}
 
 .symbol {
     background:#fff ;
