@@ -9,14 +9,15 @@ var stat = {
     'd': 0
 }
 var winIndex = [
-    [1,2,3],
+    
     [4,5,6],
-    [7,8,9],
     [1,4,7],
     [2,5,8],
-    [3,6,9],
     [1,5,9],
     [3,5,7]
+    [1,2,3],
+    [3,6,9],
+    [7,8,9],
 ];
 
 for(var i = 1; i <= 9; i++) {
@@ -44,9 +45,9 @@ function cellClick() {
         }
     }
 
-    if(checkWin(data)) {
+    if(Win(data)) {
         stat[player] += 1;
-        restart("Выграл: " + player);
+        restart("Выиграл: " + player);
     }else {
         var draw = true;
         for(var i in cell) {
@@ -62,7 +63,7 @@ function cellClick() {
     currentPlayer.innerHTML = player.toUpperCase();
 }
 
-function checkWin(data) {
+function Win(data) {
     for(var i in winIndex) {
         var win = true;
         for(var j in winIndex[i]) {
