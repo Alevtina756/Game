@@ -8,7 +8,7 @@
 #chicken{
     width: 50px;
     height: 50px;
-    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpickimage.ru%2Fwp-content%2Fuploads%2Fimages%2Fdetskie%2Fchickens%2Fciplenok4.jpg&f=1&nofb=1);
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffd%2F0c%2Ff8%2Ffd0cf87307a637c09dee433920f141aa.jpg&f=1&nofb=1);
     background-size:50px 50px;
     position:relative;
     top: 150px;
@@ -17,7 +17,7 @@
 #tree{
     width: 20px;
     height: 40px;
-    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.yVXy3oYzqfxOTCfhNi7deQHaIi%26pid%3DApi&f=1);
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpickimage.ru%2Fwp-content%2Fuploads%2Fimages%2Fdetskie%2Fpine%2Fsosna14.jpg&f=1&nofb=1);
     background-size:20px 40px;
     position: relative;
     top: 110px;
