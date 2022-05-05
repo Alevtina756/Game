@@ -106,7 +106,7 @@ font-family: ‘Helvetica Neue’, sans-serif;
     85% {
         transform: 
             rotate(360deg)
-            translate(0px, -10px)    
+            translate(-300px, -10px)    
             rotate(-360deg)
             ;
     }
