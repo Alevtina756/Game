@@ -16,6 +16,13 @@ body {
     
 }
 
+.text{
+    display: block;
+    position: relative;
+     width:200px;
+    height:60px;
+}
+
 }
 .cloud {
     display: block;
@@ -27,7 +34,7 @@ body {
     box-shadow: 10px 10px rgba(0,0,0,0.2);
     border-radius:100px;
     animation: 3s ease-in-out 0s infinite alternate-reverse anim-levitation;
-    text-alight:center;
+    
  }
  .cloud::after, .cloud::before{
      content:"";
