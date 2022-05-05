@@ -22,7 +22,7 @@
     position: relative;
     top: 280px;
     left: 780px;
-    animation: aa 1s infinite linear;
+    animation: aa 1.5s infinite linear;
 }
 @keyframes aa{
     0% {
