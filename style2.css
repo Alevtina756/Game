@@ -19,7 +19,7 @@ body {
     color: #111;
     padding: 16px;
     border-radius: 8px;
-    animation: TransitionAround 15s infinite linear;
+    animation: TransitionAround 25s infinite linear;
 }
 
 .symbol2 {
@@ -27,7 +27,7 @@ body {
     color: #111;
     padding: 16px;
     border-radius: 8px;
-    animation: TransitionAround2 15s infinite linear;
+    animation: TransitionAround2 25s infinite linear;
 }
 
 @keyframes TransitionAround {
