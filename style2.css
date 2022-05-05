@@ -99,13 +99,13 @@ font-family: ‘Helvetica Neue’, sans-serif;
     15% {
         transform: 
             rotate(0deg) 
-            translate(-800px, 0px)
+            translate(-800px, 100px)
             ;
     }
     85% {
         transform: 
             rotate(360deg)
-            translate(-800px, 0px)    
+            translate(-800px, 100px)    
             rotate(-360deg)
             ;
     }
