@@ -21,6 +21,17 @@ font-family: ‘Helvetica Neue’, sans-serif;
     letter-spacing: -1px;
     line-height:1; 
     text-align: center;
+    
+}
+.text2{
+color: #685206; 
+    font-family: ‘Helvetica Neue’, sans-serif;
+    font-size: 14px;
+    line-height: 24px; 
+    margin: 0 0 24px; 
+    text-align: justify;
+    text-justify: inter-word;
+
 }
 
 .symbol {
