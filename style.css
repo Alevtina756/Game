@@ -11,7 +11,7 @@
     background-image: url(https://png-images.ru/wp-content/uploads/2015/02/fish_PNG1153.png);
     background-size:150px 150px;
     position:relative;
-    top: 150px;
+    top: 4500px;
    
 }
 #coral{
@@ -20,13 +20,13 @@
     background-image: url(https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/344/external-coral-sea-life-icongeek26-linear-colour-icongeek26.png);
     background-size:60px 120px;
     position: relative;
-    top: 110px;
-    left: 580px;
+    top: 3300px;
+    left: 17400px;
     animation: aa 1s infinite linear;
 }
 @keyframes aa{
     0% {
-        left:580px;
+        left:17400px;
     }
 
     100%{
