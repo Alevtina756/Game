@@ -92,7 +92,7 @@ font-family: ‘Helvetica Neue’, sans-serif;
 @keyframes TransitionAround2 {
     0% {
         transform: 
-            rotate(30deg)
+            rotate(300deg)
             translate(0px, 200px)
             ;
     }
