@@ -58,7 +58,7 @@ font-family: ‘Helvetica Neue’, sans-serif;
     padding: 16px;
     border-radius: 8px;
     animation: TransitionAround2 25s infinite linear;
-    position: bottom;
+   
     
 }
 
@@ -99,13 +99,13 @@ font-family: ‘Helvetica Neue’, sans-serif;
     15% {
         transform: 
             rotate(0deg) 
-            translate(-100px, 0px)
+            translate(-1000px, 0px)
             ;
     }
     85% {
         transform: 
             rotate(360deg)
-            translate(-100px, 0px)    
+            translate(-500px, 0px)    
             rotate(-360deg)
             ;
     }
