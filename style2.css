@@ -62,14 +62,37 @@ font-family: ‘Helvetica Neue’, sans-serif;
     
 }
 
-
+@keyframes TransitionAround {
+    0% {
+        transform: 
+            rotate(0deg)
+            translate(0px, 0px)
+            ;
+    }
+    15% {
+        transform: 
+            rotate(0deg) 
+            translate(0px, -100px)
+            ;
+    }
+    85% {
+        transform: 
+            rotate(360deg)
+            translate(0px, -100px)    
+            rotate(-360deg)
+            ;
+    }
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
 
 
 
 @keyframes TransitionAround2 {
     0% {
         transform: 
-            rotate(0deg)
+            rotate(30deg)
             translate(0px, 200px)
             ;
     }
