@@ -6,7 +6,7 @@ html {
 body {
     margin: 0px;
     padding: 0px;
-    background: #1e2e2e;
+    background: #7c795d;
     position: relative;
     display: flex;
     justify-content: center;
@@ -15,7 +15,7 @@ body {
 }
 
 .symbol {
-    background: #7c795d;
+    background: #4c4a37;
     color: #111;
     padding: 16px;
     border-radius: 8px;
