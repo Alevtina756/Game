@@ -93,7 +93,7 @@ font-family: ‘Helvetica Neue’, sans-serif;
     0% {
         transform: 
             rotate(0deg)
-            translate(0px, 0px)
+            translate(0px, 200px)
             ;
     }
     15% {
@@ -110,7 +110,7 @@ font-family: ‘Helvetica Neue’, sans-serif;
             ;
     }
     100% {
-        transform: translate(0px, 0px);
+        transform: translate(0px, 200px);
     }
 }
 
