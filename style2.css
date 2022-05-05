@@ -14,7 +14,10 @@ body {
     align-items: center;
     flex-direction: row;
 }
-
+.inner{
+    width:100px;
+    height:100px;
+}
 .cloud {
     display: block;
     position: relative;
