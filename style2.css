@@ -16,12 +16,7 @@ body {
     
 }
 
-.text{
-    display: block;
-    position: relative;
-     width:200px;
-    height:60px;
-}
+
 
 }
 .cloud {
@@ -55,6 +50,12 @@ body {
      top: -70px;
      left:130px;
  }
+.text{
+    display: block;
+    position: relative;
+     width:200px;
+    height:60px;
+}
 
 @keyframes anim-levitation {
     0% {
