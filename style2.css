@@ -50,6 +50,7 @@ font-family: ‘Helvetica Neue’, sans-serif;
     padding: 16px;
     border-radius: 8px;
     animation: TransitionAround 25s infinite linear;
+    top:300px;
 }
 
 .symbol2 {
