@@ -1,5 +1,5 @@
-document.addEventListener('DOMContentLoaded', main2);
+document.addEventListener('DOMContentLoaded', main);
 
-function main2() {
+function main() {
     
 }
