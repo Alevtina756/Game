@@ -15,7 +15,7 @@ body {
 }
 
 .symbol {
-    background: #4c4a37;
+    background:#fff ;
     color: #111;
     padding: 16px;
     border-radius: 8px;
@@ -23,7 +23,7 @@ body {
 }
 
 .symbol2 {
-    background: #fff;
+    background: #4c4a37;
     color: #111;
     padding: 16px;
     border-radius: 8px;
