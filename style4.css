@@ -11,7 +11,7 @@
     background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpictures.ucoz.ru%2F_ph%2F3%2F2%2F354257569.png&f=1&nofb=1);
     background-size:80px 80px;
     position:relative;
-    top: 200px;
+    top: 220px;
    
 }
 #tree{
@@ -20,7 +20,7 @@
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpickimage.ru%2Fwp-content%2Fuploads%2Fimages%2Fdetskie%2Fpine%2Fsosna14.jpg&f=1&nofb=1);
     background-size:60px 80px;
     position: relative;
-    top: 200px;
+    top: 100px;
     left: 580px;
     animation: aa 1.5s infinite linear;
 }
