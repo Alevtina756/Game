@@ -54,8 +54,8 @@ font-family: ‘Helvetica Neue’, sans-serif;
 }
 
 .symbol2 {
-    background: #4c4a37;
-    color: #111;
+    background: #fff;
+    color: #4c4a37;
     padding: 16px;
     border-radius: 8px;
     animation: TransitionAround2 25s infinite linear;
