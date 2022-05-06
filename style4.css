@@ -6,21 +6,21 @@
    
 }
 #chicken{
-    width: 150px;
-    height: 150px;
+    width: 80px;
+    height: 80px;
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotoshop-kopona.com%2Fuploads%2Fposts%2F2019-11%2F1573209577_pic-9.jpg&f=1&nofb=1);
-    background-size:150px 150px;
+    background-size:80px 80px;
     position:relative;
-    top: 400px;
+    top: 250px;
    
 }
 #tree{
-    width: 130px;
-    height: 150px;
+    width: 60px;
+    height: 80px;
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpickimage.ru%2Fwp-content%2Fuploads%2Fimages%2Fdetskie%2Fpine%2Fsosna14.jpg&f=1&nofb=1);
-    background-size:130px 150px;
+    background-size:60px 80px;
     position: relative;
-    top: 500px;
+    top: 200px;
     left: 580px;
     animation: aa 1.5s infinite linear;
 }
